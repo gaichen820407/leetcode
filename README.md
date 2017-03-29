@@ -1,6 +1,2 @@
-#leetcode No.476
-Question : Hamming Distance
-
-The Hamming distance between two integers is the number of positions at which the corresponding bits are different.
-Given two integers x and y, calculate the Hamming distance.
-
+#leetcode
+Use this repositry to record my leetcode journey...
