@@ -8,13 +8,21 @@ Swing's window is drawn by JAVA programming language, will be same style on ever
 
 GUI programming needs to care about some parts:
 1.widget: the button object, the checkbox object, the textarea object......
+
 2.layout: the widget in the window's style
+
 3.event: event can fire by communicating with widgets
 
 layout management by following rulse:
+
 BorderLayout(區域式版面配置): cut the windows to five parts. The JFrame default layout
+
 FlowLayout(流動式版面配置): the flow layout will put each widget in same row
+
 CardLayout(卡片式版面配置)
+
 GridLayout(格子式版面配置)
+
 GridBagLayout(帶狀式版面配置)
+
 BoxLayout(盒子式版面配置)
