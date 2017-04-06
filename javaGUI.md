@@ -7,6 +7,7 @@ The different is that AWT uses the window utility supplied by OS, the window gra
 Swing's window is drawn by JAVA programming language, will be same style on every OS.
 
 GUI programming needs to care about some parts:
+
 1.widget: the button object, the checkbox object, the textarea object......
 
 2.layout: the widget in the window's style
